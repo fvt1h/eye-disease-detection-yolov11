@@ -1,0 +1,9 @@
+# Abaikan folder virtual environment
+venv/
+
+# Abaikan file model .pt yang mungkin terunduh secara lokal
+*.pt
+
+# Abaikan cache Python
+__pycache__/
+*.pyc
